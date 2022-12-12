@@ -23,7 +23,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b3801d21-2dbd-4f9b-b954-bc5f2a6c89ba" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/react.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/react.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/workflows/output.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -78,7 +78,7 @@
       <workItem from="1670556443929" duration="5766000" />
       <workItem from="1670813635919" duration="165000" />
       <workItem from="1670813814198" duration="302000" />
-      <workItem from="1670814142147" duration="2270000" />
+      <workItem from="1670814142147" duration="2765000" />
     </task>
     <servers />
   </component>
